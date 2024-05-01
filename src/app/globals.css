@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.home-hero-section {
+  height: 600px;
+}
+
+.bg-hero-section {
+}
